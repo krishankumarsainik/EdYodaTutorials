@@ -18,6 +18,7 @@ var address;
 console.log(typeof(address));
 
 
+
 var addition = num1 + 10;
 console.log(addition);
 
